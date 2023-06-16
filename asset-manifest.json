@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Platform.git/static/css/main.07fd3909.css",
+    "main.js": "/Platform.git/static/js/main.875fdb78.js",
+    "index.html": "/Platform.git/index.html",
+    "main.07fd3909.css.map": "/Platform.git/static/css/main.07fd3909.css.map",
+    "main.875fdb78.js.map": "/Platform.git/static/js/main.875fdb78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fd3909.css",
+    "static/js/main.875fdb78.js"
+  ]
+}
